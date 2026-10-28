@@ -1,0 +1,2 @@
+Browser check exit: 0
+{"browser": "Chromium headless", "passed": ["login", "dashboard", "chat mock UI", "follow-up Enter submission", "Markdown heading", "Writer mock output", "PPTX browser download and ZIP check using fixture content", "voice fallback form", "mobile width 390px overflow check", "no uncaught page errors"], "not_tested": ["live AI", "microphone", "audible output", "public deployment"]}

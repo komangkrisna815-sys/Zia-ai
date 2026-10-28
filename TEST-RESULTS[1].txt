@@ -1,0 +1,19 @@
+test_auth_origin_logout_revocation (test_app.Tests.test_auth_origin_logout_revocation) ... ok
+test_context (test_app.Tests.test_context) ... ok
+test_error_categories (test_app.Tests.test_error_categories) ... ok
+test_health_static_and_secret (test_app.Tests.test_health_static_and_secret) ... ok
+test_invalid_slide (test_app.Tests.test_invalid_slide) ... ok
+test_missing_key (test_app.Tests.test_missing_key) ... ok
+test_mock_chat_context (test_app.Tests.test_mock_chat_context) ... ok
+test_pptx_endpoint (test_app.Tests.test_pptx_endpoint) ... ok
+test_pptx_structure (test_app.Tests.test_pptx_structure) ... ok
+test_rate_limit (test_app.Tests.test_rate_limit) ... ok
+test_validation (test_app.Tests.test_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.069s
+
+OK
+
+Frontend JavaScript syntax exit: 0
+AI tests use mocks only in tests; no live AI inference verified. PPTX generation is real; source slide content is a test fixture.
